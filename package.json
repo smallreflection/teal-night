@@ -1,0 +1,21 @@
+{
+    "name": "teal-night",
+    "displayName": "Teal Night",
+    "description": "A clean, easy on the eyes dark theme using teal and warm contrasting colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Teal Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Teal Night-color-theme.json"
+            }
+        ]
+    }
+}
