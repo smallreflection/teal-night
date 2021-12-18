@@ -14,7 +14,7 @@
             {
                 "label": "Teal Night",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Teal Night-color-theme.json"
+                "path": "./themes/teal-night-color-theme.json"
             }
         ]
     }
