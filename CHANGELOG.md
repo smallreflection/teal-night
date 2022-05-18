@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "teal-night" extension will be documented in this file.
+## 0.5.1 
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+Refresh to keep a darker top bar, and added a nice li'll icon.
 
-## [Unreleased]
+## 0.5.0
 
-- Initial release
+Initial release!

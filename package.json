@@ -1,10 +1,16 @@
 {
     "name": "teal-night",
     "displayName": "Teal Night",
-    "description": "A clean, easy on the eyes dark theme using teal and warm contrasting colors",
-    "version": "0.0.1",
+    "description": "A clean, minimalist, easy on the eyes dark theme using teal and warm contrasting colors",
+    "publisher": "smallreflection",
+    "icon": "icon.png",
+    "version": "0.5.1",
     "engines": {
         "vscode": "^1.63.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/smallreflection/teal-night.git"
     },
     "categories": [
         "Themes"
